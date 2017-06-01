@@ -1,0 +1,14 @@
+1.Please copy su2kt.rb and su2kt folder into Sketchup\Plugings 
+	>> Sketchup\Plugins\su2kt\
+	>> Sketchup\Plugins\su2kt.rb
+Overwrite all older files.
+
+On PC the default folder is:
+	C:\Program Files\Google\Google Sketchup ... \Plugins
+
+	For SU2014 in user folder: "C:\Users\<YourUserName>\AppData\Roaming\SketchUp\SketchUp 2014\SketchUp\Plugins\"
+
+On MAC the default folder is:
+	Macintosh HD/Library/Application Support/Google Sketchup ...... /Sketchup/plugins
+
+	For SU2014 in user folder: ~/Library/Application Support/SketchUp 2014/SketchUp/Plugins
